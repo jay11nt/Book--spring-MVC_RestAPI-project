@@ -13,7 +13,7 @@ import in.sb.main.services.BookService;
 @RestController
 public class BookController 
 {
-	//@RequestMapping(value = "/books", method= RequestMethod.GET)		
+	//@RequestMapping(value = "/books", method= RequestMethod.GET)		//comment out line and try yourself some changes 
 	
 	@Autowired
 	private BookService bookService;
@@ -32,7 +32,7 @@ public class BookController
 //		book.setAuthor("JAMES GOSLING");
 //		return book;
 	}
-	@GetMapping("/books/{id}")
+	@GetMapping("/books/{id}")					//for http GET method with id
 	public Book getBook(@PathVariable("id")int id)				//for calling 1 book 
 	{
 		return bookService.getBookById(id);
