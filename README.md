@@ -3,3 +3,4 @@
 
 
 ▪  for GET -> http://localhost:8080/books
+▪  for GET by id -> http://localhost:8080/books/1 or 2
