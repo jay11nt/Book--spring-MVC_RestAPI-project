@@ -14,7 +14,7 @@ public class Book
 		this.author = author;
 	}
 
-	public Book() 		//default constructor
+	public Book() 	   //default constructor
 	{
 		super();	
 	}
