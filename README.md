@@ -26,6 +26,7 @@
  - REST API
  - Maven
 
+**API Endpoint-**
 
 Method      Endpoint      Description
 
