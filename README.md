@@ -28,43 +28,15 @@
 
 **API Endpoint-**
 
-Method      Endpoint      Description
+Method      Endpoint            Description
 
-GET        /api/books      Get all books
-
-
-
-
-
-
-
-GET
-
-/api/books
-
-Get all books
-
-GET
-
-/api/books/{id}
-
-Get book by ID
-
-POST
-
-/api/books
-
-Add a new book
-
+GET        /api/books          Get all books
+POST      /api/books/{id}      Get book by ID
 PUT
-
-/api/books/{id}
-
-Update book details
-
 DELETE
 
-/api/books/{id}
+
+
 
 Delete a book
 **API Endpoints**
