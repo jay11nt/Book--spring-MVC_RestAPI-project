@@ -7,6 +7,7 @@
   
 ## **Project Structure**
 
+  
       book-management-system/
       │   ├── src/
       │   │   ├── main/
@@ -18,6 +19,7 @@
       │   │   │   ├── application.properties
       │   ├── pom.xml
       │   ├── README.md
+  
 
 **Technologies Used**
 
