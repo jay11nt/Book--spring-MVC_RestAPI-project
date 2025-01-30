@@ -7,6 +7,18 @@
   
 ## **Project Structure**
 
+      book-management-system/
+      │   ├── src/
+      │   │   ├── main/
+      │   │   │   ├── java/in/sb/main/
+      │   │   │   │   ├── controller/BookController.java
+      │   │   │   │   ├── entity/Book.java
+      │   │   │   │   ├── services/BookService.java
+      │   │   ├── resources/
+      │   │   │   ├── application.properties
+      │   ├── pom.xml
+      │   ├── README.md
+
 **Technologies Used**
 
   Java
