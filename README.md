@@ -3,7 +3,7 @@
 
 ## **Overview**
 
-  This is a simple Book Management System built using Spring Boot. It provides a RESTful API to manage books, including functionalities to add, update, retrieve, and delete books.
+- This is a simple Book Management System built using Spring Boot. It provides a RESTful API to manage books, including functionalities to add, update, retrieve, and delete books.
   
 ## **Project Structure**
 
@@ -21,15 +21,12 @@
 
 **Technologies Used**
 
-  Java
+ - Java
+ - Spring Boot
+ - REST API
+ - Maven
 
-  Spring Boot
-
-  REST API
-
-  Maven
-
-  
+**API Endpoints**
 ▪  for GET -> http://localhost:8080/books
 
 ▪  for GET by id -> http://localhost:8080/books/1 or 2
