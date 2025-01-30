@@ -31,8 +31,9 @@
 Method      Endpoint            Description
 
 GET        /api/books          Get all books
-POST      /api/books/{id}      Get book by ID
-PUT
+GET        /api/books/{id}     Get book by ID
+POST      /api/books           Add a new book  
+PUT      /api/books
 DELETE
 
 
