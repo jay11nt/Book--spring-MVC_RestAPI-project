@@ -26,6 +26,46 @@
  - REST API
  - Maven
 
+
+Method      Endpoint      Description
+
+GET        /api/books      Get all books
+
+
+
+
+
+
+
+GET
+
+/api/books
+
+Get all books
+
+GET
+
+/api/books/{id}
+
+Get book by ID
+
+POST
+
+/api/books
+
+Add a new book
+
+PUT
+
+/api/books/{id}
+
+Update book details
+
+DELETE
+
+/api/books/{id}
+
+Delete a book
 **API Endpoints**
 ▪  for GET -> http://localhost:8080/books
 
