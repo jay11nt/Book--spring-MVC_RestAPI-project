@@ -37,9 +37,19 @@ PUT        /api/books/{id}      Update book details
 DELETE      /api/books/{id}      Delete a book
 
 
+### **How to Run-**
+
+- Clone the repository:
+
+git clone https://github.com/yourusername/book-management-system.git
+
+- Navigate to the project directory:
+
+cd book-management-system
+
+- Build and run the application:
 
 
-Delete a book
 **API Endpoints**
 ▪  for GET -> http://localhost:8080/books
 
