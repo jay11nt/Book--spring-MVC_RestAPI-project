@@ -21,7 +21,7 @@
       │   ├── README.md
   
 
-**Technologies Used**
+**Technologies Used -**
 
  - Java
  - Spring Boot
